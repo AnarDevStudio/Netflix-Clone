@@ -1,4 +1,16 @@
+import { useNavigate } from "react-router-dom";
+
 export default function Navbar() {
+    const navItems = [
+        "Home",
+        "TV Shows",
+        "Movies",
+        "New & Popular",
+        "My List",
+        "Browse By Laungues"
+    ];
+
+    const navigate = useNavigate();
     return (
         <nav>
             <div className="flex items-center">
@@ -7,12 +19,9 @@ export default function Navbar() {
                 </div>
                 <div className="text-white font-normal" data-aos="fade-down">
                     <ul className="space-x-3 font-normal select-none">
-                        <i className="cursor-pointer">Home</i>
-                        <i className="cursor-pointer">TV Shows</i>
-                        <i className="cursor-pointer">Movies</i>
-                        <i className="cursor-pointer">New & Popular</i>
-                        <i className="cursor-pointer">My List</i>
-                        <i className="cursor-pointer">Browse By Laungues</i>
+                        {navItems.map((item) => (
+                            <i key={item} className="cursor-pointer hover:underline" onClick={() => {navigate(`${items}`)}}>{item}</i>
+                        ))}
                     </ul>
                 </div>
             </div>

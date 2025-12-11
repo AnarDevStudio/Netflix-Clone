@@ -6,7 +6,7 @@
             "genre": "Sci-Fi",
             "year": 2010,
             "rating": "PG-13",
-            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+            "description": "A skilled thief who accesses people's dreams to steal secrets is offered a chance to erase his past if he can successfully implant an idea into a target's subconscious."
         },
         {
             "id": 2,
@@ -14,39 +14,39 @@
             "genre": "Action",
             "year": 2008,
             "rating": "PG-13",
-            "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+            "description": "Batman faces his most formidable foe, the Joker, whose chaotic philosophy tests Gotham's moral limits and challenges Batman’s resolve."
         },
         {
             "id": 3,
-            "title": "The Dark Knight",
-            "genre": "Action",
-            "year": 2008,
+            "title": "Interstellar",
+            "genre": "Sci-Fi",
+            "year": 2014,
             "rating": "PG-13",
-            "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+            "description": "A group of astronauts travels through a wormhole near Saturn in search of a new habitable planet as Earth faces ecological collapse."
         },
         {
             "id": 4,
-            "title": "The Dark Knight",
-            "genre": "Action",
-            "year": 2008,
-            "rating": "PG-13",
-            "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+            "title": "The Matrix",
+            "genre": "Sci-Fi",
+            "year": 1999,
+            "rating": "R",
+            "description": "A hacker learns that his reality is a simulation and joins a rebellion against the machines controlling humanity."
         },
         {
             "id": 5,
-            "title": "The Dark Knight",
-            "genre": "Action",
-            "year": 2008,
+            "title": "Forrest Gump",
+            "genre": "Drama",
+            "year": 1994,
             "rating": "PG-13",
-            "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+            "description": "A kind-hearted man with a low IQ unwittingly influences several major historical events throughout his extraordinary life."
         },
         {
             "id": 6,
-            "title": "The Dark Knight",
-            "genre": "Action",
-            "year": 2008,
+            "title": "Titanic",
+            "genre": "Romance",
+            "year": 1997,
             "rating": "PG-13",
-            "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+            "description": "A young aristocrat falls in love with a free-spirited artist aboard the RMS Titanic, leading to a tragic romance during the ship’s fateful voyage."
         }
     ]
 }
