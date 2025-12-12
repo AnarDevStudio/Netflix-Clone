@@ -1,16 +1,28 @@
-# React + Vite
+<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/3a4a4363-83f6-4fe9-baf1-c2af2bc20f7f" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Simple Netflix Clone
 
-Currently, two official plugins are available:
+This project is a basic frontend demo inspired by the Netflix interface. It aims to help practice modern UI design, understand layout structure, and experiment with fundamental component patterns.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Netflix-style homepage layout  
+- Category-based movie/series rows  
+- Top hero banner section  
+- Basic responsive design  
+- Uses static or mock data  
 
-## React Compiler
+## Technologies Used
+- React.js  
+- Tailwind CSS  
+- React Router  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Installation
+Clone the repository:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/AnarDevStudio/Netflix-Clone.git
+cd Netflix-Clone
+npm install
+npm run dev
+```
+## Thank You To look😊
