@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AnarDevStudio.github.io/Netflix-Clone.git",
+  "homepage": "https://AnarDevStudio.github.io/Netflix-Clone",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
