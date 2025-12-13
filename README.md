@@ -25,4 +25,4 @@ cd Netflix-Clone
 npm install
 npm run dev
 ```
-## Thank You To look😊
+### Thank You To look😊
