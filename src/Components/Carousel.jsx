@@ -20,12 +20,13 @@ export default function Carousel() {
 
                 <div className="flex space-x-2 select-none">
                     {data.map((item) => (
-                        <div key={item.id} className="h-35 group cursor-pointer hover:brightness-75 transition-all bg-red-500 w-70 rounded-[5px]" data-aos="fade-up">
-                            <img className="h-9 m-3 group-hover:hidden absolute" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Netflix_2016_N_logo.svg" alt="Logo" />
+                        <div key={item.id} className="h-39 group cursor-pointer  transition-all bg-red-500 w-70 rounded-[5px]" data-aos="fade-up">
+                            <img className="h-9 m-3  group-hover:hidden absolute" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Netflix_2016_N_logo.svg" alt="Logo" />
+                            <img src={item.poster} className="-z-40 absolute group-hover:brightness-60 left-0 w-70 h-39 rounded-[5px]" alt=""/>
                             <div className="flex justify-center flex-col p-2 z-60 opacity-0 hover:opacity-100 transition-all duration-300">
-                                <p className="text-white ml-3 text-[20px] z-50">{item.title}</p>
-                                <p className="text-white ml-3 text-[12px] z-50">{item.description}</p> 
-                                <p className="text-white ml-3 text-[12px] z-50">{item.year}</p>                                                            
+                                <p className="text-white hover:brightness-100 ml-3 font-bold text-[20px] z-50">{item.title}</p>
+                                <p className="text-white font-bold ml-3 text-[12px] z-50">{item.description}</p> 
+                                <p className="text-white font-bold ml-3 text-[12px] z-50">{item.year}</p>                                                            
                             </div>
                         </div>
                     ))}

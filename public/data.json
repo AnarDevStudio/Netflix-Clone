@@ -2,6 +2,7 @@
     "film": [
         {
             "id": 1,
+            "poster" : "https://images.squarespace-cdn.com/content/v1/5ec686197f8b2976074846c2/1618809593080-N5PB8CWYOW3OPDE2TT6E/Feature+3-1.png",
             "title": "Inception",
             "genre": "Sci-Fi",
             "year": 2010,
@@ -10,6 +11,7 @@
         },
         {
             "id": 2,
+            "poster" : "https://www.limitedruns.com/media/cache/0f/a1/0fa13a8ae1d61fa02a1dab91e88ebefd.jpg",
             "title": "The Dark Knight",
             "genre": "Action",
             "year": 2008,
@@ -19,6 +21,7 @@
         {
             "id": 3,
             "title": "Interstellar",
+            "poster": "https://lh5.googleusercontent.com/proxy/_OlPMpBA_22M5QPzrZvk9CId8EDLVS3VTF2SmZmpkFmnuIOZ8wfRckdxuOTdtW9Q2NsUJiGkZOlIZlsWW8uWAN4EbPIwlL8C9Skbzj8OtR5y8g",
             "genre": "Sci-Fi",
             "year": 2014,
             "rating": "PG-13",
@@ -27,6 +30,7 @@
         {
             "id": 4,
             "title": "The Matrix",
+            "poster": "https://images.euronews.com/articles/stories/07/48/30/08/1536x864_cmsv2_0d78395d-a608-5cdb-9725-3029c08d128f-7483008.jpg",
             "genre": "Sci-Fi",
             "year": 1999,
             "rating": "R",
@@ -35,6 +39,7 @@
         {
             "id": 5,
             "title": "Forrest Gump",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ffNJG-_QKKEo1qOV88i3F8D2HV4n5rG0vw&s",
             "genre": "Drama",
             "year": 1994,
             "rating": "PG-13",
@@ -43,6 +48,7 @@
         {
             "id": 6,
             "title": "Titanic",
+            "poster": "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcwex1Z_NgoKqUWB9Fd53s9le0-9OJaRBPhlNSU0KRuD94pqeK-U5frzLxEwo6L2fjsTYVPbRIVj8alJnP2Aqm2VVDd9mlcrg5b0.jpg?r=629",
             "genre": "Romance",
             "year": 1997,
             "rating": "PG-13",
