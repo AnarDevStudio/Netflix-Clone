@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 
 export default function Carousel() {
     const [data, setData] = useState([]);
-    var list = [1, 2, 3, 4, 5, 6];
 
     useEffect(() => {
         fetch("/data.json")

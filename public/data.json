@@ -54,5 +54,27 @@
             "rating": "PG-13",
             "description": "A young aristocrat falls in love with a free-spirited artist aboard the RMS Titanic, leading to a tragic romance during the ship’s fateful voyage."
         }
+    ],
+    "film2": [
+        {
+            "id" : 1,
+            "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRshMNfWvO27Ie_moHNT2mrKDUbtC0Tg5Ehw&s"
+        },
+        {
+            "id" : 2,
+            "poster" : "https://m.media-amazon.com/images/I/81mfPSeq3zL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id" : 3,
+            "poster" : "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31290236_p_v8_aa.jpg"
+        },
+        {
+            "id" : 4,
+            "poster" : "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABXb5isLW0ysHm4fsoZOZRmi1MoTw4L4YKK0oGP-hAi8ZPQZcrwlSz-Mh_IbyHKr7QPJuM3DGiMqnGyanyhWqW_rYaIkx4h-gafVM.jpg?r=609"
+        },
+        {
+            "id" : 5,
+            "poster" : "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg"
+        }
     ]
 }
