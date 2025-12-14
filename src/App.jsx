@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Navigate } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 import TVShows from "./Pages/TVShows";
+import MoviesPage from "./Pages/MoviesPage";
 
 export default function App() {
       useEffect(() => {
@@ -26,6 +27,7 @@ export default function App() {
           <Route path="/" element={<Navigate to="/Home" replace />} />
           <Route path="/Home" element={<MainPage />} />
           <Route path="/tvshows" element={<TVShows />} />
+          <Route path="/movies" element={<MoviesPage />} />
         </Routes>
       </Router>
     </div>
